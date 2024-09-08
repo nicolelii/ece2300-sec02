@@ -15,6 +15,7 @@ module PairTripleDetector
   // '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
   // Implement a pair/triple detector using explicit gate-level modeling.
 
+  //update file
   wire w;
   assign w = in0 || in1;
   wire y;
